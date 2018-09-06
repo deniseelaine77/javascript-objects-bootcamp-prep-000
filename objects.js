@@ -1,1 +1,1 @@
-var playlist = { artistName: song };
+var playlist = { Aerosmith: "Dream On" };
